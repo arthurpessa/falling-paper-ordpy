@@ -159,7 +159,7 @@ end
 
 %Cluster Behaviours into 2 groups, chaotic and tumbling, using K-Means
 %algorithm
-behaviourAuto(isnan(behaviourAuto))=kmeans(X(isnan(behaviourAuto),:),2,'Replicates',3);
+%behaviourAuto(isnan(behaviourAuto))=kmeans(X(isnan(behaviourAuto),:),2,'Replicates',3);
 
 
 

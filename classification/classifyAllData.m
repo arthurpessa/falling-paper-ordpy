@@ -5,7 +5,6 @@
 %Toby Howison, Josie Hughes & Fumiya Iida
 
 %% Circle experiments
-load dataCircle 
 load humanClassificationCircle
 classifyBehaviour
 assignClusterLabels
